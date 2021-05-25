@@ -6,7 +6,7 @@ apinoh@unsa.edu.pe -> Angie Alexandra Pino Huarsaya
 Objetivo: Usar la biblioteca JSTL en páginas JSP
 Pre-requisitos: Eclipse, Tomcat, Java, 
 
-a. Desacargar la biblioteca JSTL (https://tomcat.apache.org/taglibs/standard/) 
+a. Descargar la biblioteca JSTL (https://tomcat.apache.org/taglibs/standard/) 
 
 b. Actualizar el proyecto:
 
