@@ -1,6 +1,8 @@
 # JSP-JSTL-y-Javabeans
 Practica 4: JSP, JSTL y Javabeans
 
+apinoh@unsa.edu.pe -> Angie Alexandra Pino Huarsaya
+
 Objetivo: Usar la biblioteca JSTL en páginas JSP
 Pre-requisitos: Eclipse, Tomcat, Java, 
 
